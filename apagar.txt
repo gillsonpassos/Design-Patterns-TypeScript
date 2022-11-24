@@ -1,0 +1,2 @@
+link Repo: https://github.com/luizomf/design-patters-typescript
+Origin git@github.com:luizomf/design-patters-typescript.git
